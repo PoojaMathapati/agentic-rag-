@@ -1,0 +1,14 @@
+# Azure OpenAI Configuration Template
+# Copy these lines to your environment or create a .env file
+
+# Your Azure OpenAI endpoint (from Azure Portal > Your OpenAI Resource > Keys and Endpoint)
+AZURE_OPENAI_ENDPOINT=https://your-resource-name.openai.azure.com/
+
+# Your Azure OpenAI API key (from Azure Portal > Your OpenAI Resource > Keys and Endpoint)
+AZURE_OPENAI_API_KEY=your-api-key-here
+
+# Your chat model deployment name (from Azure Portal > Your OpenAI Resource > Model deployments)
+AZURE_OPENAI_CHAT_DEPLOYMENT=your-chat-deployment-name
+
+# API version (usually keep this as is)
+AZURE_OPENAI_API_VERSION=2024-02-15-preview

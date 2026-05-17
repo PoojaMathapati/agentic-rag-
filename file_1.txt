@@ -1,0 +1,81 @@
+Case StudyBusiness Process Automation Improves Revenues and Customer Experience for Investment Consulting Firm
+
+Case Study
+
+Application Development
+
+Finance
+
+Trigent helped our asset managers respond fast to inquiries that resulted in nearly 100% growth in customer base within six months.
+
+About the Client
+
+The company is one of the industry’s largest independent, full-service investment consulting firm headquartered in Massachusetts. It services 360 retainer relationships, representing assets of $1 trillion with approximately $63 billion in alternative assets.
+
+Background
+
+The company evaluates and provides advice for portfolio management such as private equity, real assets, and hedge funds, which offer attractive diversification and hedges against the negative implications of inflation. Compared to traditional capital and fixed income investments, the client’s 25 dedicated assets research professionals ensure attractive overall returns on over $70 billion in alternative assets to their nearly 250 clients.
+
+The research professionals relied on a legacy portal that helped investors to search and identify managers who could share customized investment plans and invest on their behalf. Based on prospective investor requirements, advisors would manually pull out data on existing customers, use tools to help forecast and create presentations of similar investments, and present this data in a chart format.
+
+Business Challenge
+
+Investment advisors expended a lot of time and effort (on some occasions several weeks) in building presentations by extracting data from different systems and then manually putting them together.
+
+Human intervention also led to errors, which proved costly at times (poor analysis led to customer dissatisfaction and hit revenues). Errors also lead to regulatory non-compliance.
+
+Client Needs
+
+With an aggressive growth plan for the future, the client was looking for a partner who would build a portal that would integrate several existing standalone systems, to analyze data and produce presentations in a fully automated form.
+
+After the presentation, the advisor would, based on existing intelligence, plan and invest discretionarily for clients. With exponential growth plans, this step also needed to be automated to enable investment managers to make the best decisions on behalf of clients.
+
+Strengthen customer relationships, increase revenue and competitive advantage by adopting disruptive technology solutions
+
+Strengthen customer relationships, increase revenue and competitive advantage by adopting disruptive technology solutions
+
+Business Solution
+
+Trigent's engineers conducted due diligence on the existing systems and captured the business requirements in great detail. The application designed on the .NET framework was compatible with multiple browsers, devices, and operating systems. This helped the portal to 'talk to' different systems and brought a new level of interactivity for the application.
+
+Trigent's engineers integrated the other systems that the client had been using, eVestment, which would help investment managers identify and capitalize on global investment trends, and D365, their CRM system to access existing customer data.
+
+Along with integrating these systems, Trigent's engineers created SSIS packages for data warehousing, data extraction, and transformation.
+
+The comprehensive self-service application automated the entire Search Book generation and publishing process.
+
+A simple wizard-like step-by-step interface guides the users through a well-defined process.
+
+The system also allows users to save their preferences and override inputs for controlled customization of the book.
+
+The application offered customers integrated and automated Investment Manager Search and Discretionary services.
+
+Investment Manager Search Book Application – The new Investment Manager Search Application helps customers to search, evaluate and identify suitable investment managers. Intuitively, after an initial screening, the system auto-generates quantitative and qualitative information and formal analysis. The network offered the final report in a presentation form making it easy for customers to understand. The fully automated process was reduced from a week to less than an hour.
+
+Investment Manager Search Book Application – The new Investment Manager Search Application helps customers to search, evaluate and identify suitable investment managers. Intuitively, after an initial screening, the system auto-generates quantitative and qualitative information and formal analysis. The network offered the final report in a presentation form making it easy for customers to understand. The fully automated process was reduced from a week to less than an hour.
+
+Investment Manager Search Book Application
+
+Discretionary Services – Another value-added service was the Discretionary Services portfolio. This function empowered client asset managers to make investment decisions on behalf of the customers. The application negated all forms of risk and adhered to regulatory compliances. The user-friendly application helped advisors to derive intelligence from 10 years of data to methodically and accurately offer investment plans for customers.
+
+Discretionary Services – Another value-added service was the Discretionary Services portfolio. This function empowered client asset managers to make investment decisions on behalf of the customers. The application negated all forms of risk and adhered to regulatory compliances. The user-friendly application helped advisors to derive intelligence from 10 years of data to methodically and accurately offer investment plans for customers.
+
+Discretionary Services
+
+Client Benefits
+
+Track, aggregate, and visualize key performance indicators
+
+The search book generation time was reduced to a few hours from weeks, helping asset managers to respond faster
+
+Reduced errors by 70%, improving regulatory compliance
+
+Enhanced client services and reduced costs
+
+Empowered investment managers with accurate data to make decisions faster
+
+Improved operational efficiencies up to 80%
+
+Integration with data feeds results in 100% information accuracy
+
+Technology Stack
