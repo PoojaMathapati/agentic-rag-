@@ -1,6 +1,21 @@
+# Virtual environments
 venv/
 .venv/
+env/
+
+# Environment / secrets
 .env
 .env.*
+*.env
+azure_config.env
+
+# Python
 __pycache__/
 *.pyc
+
+# Vector DB / generated files
+faiss_index/
+faiss_index_hf/
+
+# Optional
+*.png
